@@ -42,7 +42,7 @@ public class Main {
         janela.add(btnDeletar);
         janela.add(btnEncerrar);
 
-        janela.setLocationRelativeTo(null); // Centraliza a janela na tela
+        janela.setLocationRelativeTo(null);
         janela.setVisible(true);
     }
 
